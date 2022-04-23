@@ -1,0 +1,93 @@
+/* .sort{
+
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: space-between;
+    justify-content: space-between;
+    width: 514px;
+    height: 482px;
+    left: 40px;
+    position: absolute;
+    position: absolute;
+    top: 358px;
+
+} */
+.sort p {
+    position: absolute;
+    top:90px;
+    font-size: 32px;
+    font-weight: bold;
+    left: 40px;
+}
+
+.sort button{
+    position: absolute;
+    z-index: 20p;
+    top: 120px;
+    left: 60px;
+    height: 100px;
+    width: 100px;
+   
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.files{
+    position: absolute;
+width: 225px;
+height: 219px;
+left: 68px;
+top: 353px;
+
+background: linear-gradient(142.15deg, #6B7CFF 19.35%, #132DFF 91.45%);
+box-shadow: 0px 11px 17px -3px rgba(36, 61, 255, 0.35);
+border-radius: 18px;
+box-sizing: border-box;
+border-radius: 18px;
+}
+
+
+
+.image{
+    position: absolute;
+width: 225px;
+height: 219px;
+left: 352px;
+top: 353px;
+
+background: linear-gradient(317.82deg, #FFAB4A 10.64%, #F9DAB7 104.55%);
+box-shadow: 0px 10px 25px -3px rgba(255, 177, 88, 0.56);
+border-radius: 18px;
+box-sizing: border-box;
+border-radius: 18px;
+}
+
+.video{
+    position: absolute;
+    width: 225px;
+    height: 219px;
+    left: 68px;
+    top: 608px;
+    
+    background: linear-gradient(313.02deg, #2BEAD7 24.15%, #99FEF3 109.98%);
+    box-shadow: 0px 11px 33px 1px rgba(0, 243, 217, 0.51);
+    border-radius: 18px;
+    box-sizing: border-box;
+    border-radius: 18px;
+}
+
+.audio{
+    position: absolute;
+    width: 225px;
+    height: 219px;
+    left: 352px;
+    top: 608px;
+    
+    background: linear-gradient(313.52deg, #F464FD 11.73%, #E5AEF5 94.27%);
+    box-shadow: 0px 11px 18px -1px rgba(244, 100, 253, 0.5);
+    border-radius: 18px;
+    box-sizing: border-box;
+    border-radius: 18px;
+}

@@ -1,0 +1,77 @@
+
+  
+  .container {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    align-content: space-around;
+  }
+  .field label{
+  font-size: 18px;
+    font-weight: 600;
+    position: absolute;
+}
+  .field input{
+    border-radius: 0px;
+    border-color: rgb(212, 212, 212);
+    color: #c4c4c4;
+    border: none;
+    border-bottom: 1px solid #7c7c7c;
+    position: relative;
+    top: 60px;
+    color: black;
+    margin-bottom: 45px;
+  }
+  .container > form {
+    width: 149%;
+    border: 1px solid #dfdfdf;
+    padding: 35px;
+    border-radius: 18px;
+    background: #fff;
+    height: 590px;
+    box-shadow: 4px 8px 25px 2px rgba(156, 154, 255, 0.19);
+border-radius: 18px;
+  }
+  pre {
+    width: 70%;
+    color: #fff;
+    font-size: larger;
+  }
+  
+  h1{
+      color: blue;
+  }
+  p {
+      position: relative;
+      top:16px;
+    color: red;
+  }
+  .submit {
+    position: absolute;
+    width: 261px;
+    height: 51px;
+    left: 920px;
+    top: 600px;
+    border: none;
+    background: linear-gradient(159.75deg, #3532FF 13.47%, #9C9AFF 133.33%);
+    border-radius: 14px;
+  }
+  .success{
+    position: absolute;
+    right: 274px;
+    top: 52px;
+  }
+
+  .success button{
+      height: 40px;
+      width: 120px;
+      border-radius: 18px;
+      background-color: blue;
+      color:white;
+        border: none;
+
+  }

@@ -1,0 +1,116 @@
+.form input{
+    background: #f6f7ff;
+border-radius: 18px;
+width: 320px;
+height: 46px;
+border-color: 2px solid #b69cff;;
+
+
+}
+
+.Addform h2{
+    color: #000000;
+    display: flex;
+    position: absolute;
+    top: -101px;
+    justify-content: center;
+    font-size: bold;
+    font-size: 45px;
+
+}
+.Addform{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    left: 658px;
+    top: 362px;
+    width: 930px;
+    height: 470px;
+    box-shadow: 4px 8px 25px 2px rgb(156 154 255 / 19%);
+    border-radius: 18px;
+    position: absolute;
+    background-color: white;
+}
+.title{
+    
+    position: absolute;
+width: 359px;
+height: 46px;
+left: 70px;
+top: 60px;
+
+
+    
+}
+.tag{
+    position: absolute;
+width: 359px;
+height: 46px;
+right: 90px;
+top: 60px;
+
+
+
+
+
+}
+
+.img{
+    position: absolute;
+
+left: 75px;
+top: 145px;
+width: 800px;
+height: 228px;
+
+
+background: rgba(237, 239, 255, 0.48);
+border: 1px dashed #9C9AFF;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+}
+
+.upload button{
+
+    position: absolute;
+    top:240px;
+    background: linear-gradient(159.75deg, #3532FF 13.47%, #9C9AFF 133.33%);
+    border-radius: 14px;
+    height: 54px;
+    width: 251px;
+    left:310px
+}
+.form-control123{
+    height: 200px;
+    width: 800px;
+    top: -1px;
+    opacity: 0%;
+    z-index: 50px;
+}
+
+.dropdown{
+    width: 329px;
+    height: 43px;
+    border-radius: 14px;
+    padding: 9px;
+    position: absolute;
+    right: -30px;
+    top: 9px;
+    background: #f6f7ff;
+   border-color: rgb(206, 206, 206) ;
+}
+
+.tag p {
+    position: absolute;
+    top: -35px;
+    font-size: 20px;
+    font-weight: 700;
+    left: 169px;
+}
+
+
+
+

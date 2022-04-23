@@ -1,0 +1,55 @@
+.invi{
+
+    display: flex;
+    align-items: center;
+    align-content: space-around;
+    width: 75%;
+    height: 100%;
+    padding: -92px;
+    left: 183px;
+    border: 20px,20px;
+    white-space: normal;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+    position: absolute;
+    top: 437px;
+    padding: -30px;
+}
+
+
+.line{
+    margin-bottom: 60px;
+    border: 1px solid #f1f1f1;
+    border-radius: 20px
+    
+    
+}
+.content{
+  
+background: #FFFFFF;
+border-radius: 0px 0px 18px 18px;
+
+}
+.elements{
+    box-shadow: 0px 6px 18px #EDEFFF;
+    border-radius: 20px;
+}
+.info h2{
+    position: relative;
+    top: 19px;
+    right:90px
+}
+.info p {
+    position: relative;
+    right: 90px;
+    top: 68px;
+}
+
+.info h4 {
+
+    position: relative;
+    right: 112px;
+    top: -12px;
+
+}

@@ -1,0 +1,79 @@
+.Search{
+
+    display: flex;
+    align-content: center;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+
+}
+ .Search input {
+    position: absolute;
+width: 588px;
+height: 50px;
+left: 570px;
+top: 171px;
+border: none;
+background: #FFFFFF;
+border-radius: 46px;
+padding: 20px;
+font-size: 16px;
+box-shadow: 4px 8px 25px 2px rgb(156 154 255 / 19%);
+}
+.art{
+    height: 200vh;
+    overflow-y: scroll;
+    margin-top: -10vh;
+    margin-bottom: 2vh;
+    position: absolute;
+    border-radius: 20px;
+    width: 1552px;
+    top: 1100px;
+    
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: space-between;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    align-content: center;
+    left: 51px;
+}
+.filter p{
+    position: absolute;
+    left: 70px;
+    font-size: 35px;
+    font-weight: bold;
+    top:260px;
+    color: black;
+
+
+}
+
+.Articles{
+    display: flex;
+    align-items: center;
+    align-content: space-around;
+    width: 100%;
+    border: 20px,20px;
+    white-space: normal;
+    justify-content: space-around;
+}
+
+
+h1{
+    position: "absolute";
+    left: 67px;
+    top: 998px;
+    font-size: 50px;
+    color: "black";
+    
+    color: black;
+    font-weight: bold;
+ 
+}
+
+
+   
+ 
