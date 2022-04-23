@@ -4,6 +4,7 @@ import AddArticle from '../Components/AddArticle'
 import { db } from '../firebaseConfig'
 import { onSnapshot } from 'firebase/firestore';
 import Header from '../Components/Header';
+import Login from '../Components/Login';
 import Filter from "../Components/Filter";
 import { collection, orderBy, query } from "firebase/firestore";
 import "./Home.css"
@@ -123,6 +124,7 @@ const [search, setSearch] = useState("");
                 <BrowserRouter>
                     <Switch>
                     <Route  path="/addarticle" component={AddArticle}/>
+                    <Route  path="/login" component={Login}/>
                     </Switch>
                 </BrowserRouter>
               </div>

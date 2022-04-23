@@ -75,3 +75,14 @@ border-radius: 18px;
         border: none;
 
   }
+
+  .back{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    right: -366px;
+    top: 9px;
+
+background: linear-gradient(312.76deg, #3532FF 25.3%, #514FFF 100%);
+border-radius: 14px;
+  }

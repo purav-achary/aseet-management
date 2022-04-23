@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import React from "react";
 import "./Login.css"
 import  img8  from '../assets/login.png';
+import  img12  from '../assets/Multiply.png';
 import { Link } from "react-router-dom";
 function Login() {
   const initialValues = { username: "", email: "", password: "" };
@@ -57,6 +58,14 @@ style={{
 }}
 
     >
+
+    <div className="back">
+    <Link to={"/"}>
+    <img  src={img12}  style={{marginTop: "11px"}}    ></img>
+    </Link>
+    </div>
+
+
     <img  src={img8}></img>
 
     
