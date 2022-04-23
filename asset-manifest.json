@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/aseet-managment/static/css/main.795d2a3f.css",
+    "main.js": "/aseet-managment/static/js/main.d77a51d5.js",
+    "static/js/787.c1112931.chunk.js": "/aseet-managment/static/js/787.c1112931.chunk.js",
+    "static/media/login.png": "/aseet-managment/static/media/login.9a8414dbecb615f6b410.png",
+    "static/media/image.png": "/aseet-managment/static/media/image.2eb6b57d35e08d3231ef.png",
+    "static/media/audio.png": "/aseet-managment/static/media/audio.a7d790ea5eebd61bf474.png",
+    "static/media/db.png": "/aseet-managment/static/media/db.961042df9ecb81ad756a.png",
+    "static/media/video.png": "/aseet-managment/static/media/video.f23d0a4ac230418196be.png",
+    "static/media/folder.png": "/aseet-managment/static/media/folder.f34704db8f13cb69d23d.png",
+    "index.html": "/aseet-managment/index.html",
+    "main.795d2a3f.css.map": "/aseet-managment/static/css/main.795d2a3f.css.map",
+    "main.d77a51d5.js.map": "/aseet-managment/static/js/main.d77a51d5.js.map",
+    "787.c1112931.chunk.js.map": "/aseet-managment/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.795d2a3f.css",
+    "static/js/main.d77a51d5.js"
+  ]
+}
